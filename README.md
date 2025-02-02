@@ -8,6 +8,6 @@ Bringing the beauty of flowers to your screen.
 
 This website is a personal project designed to practice web development skills and showcase the beauty of flowers. It's a simple and elegant way to appreciate nature's artistry.
 
-## Immerse Yourself in Floral Beauty
+## Discover the Beauty
 
-Explore the gallery of breathtaking blooms.  Each flower is showcased in high-resolution detail, allowing you to appreciate its unique colors, shapes, and textures before you buy.  Find inspiration and discover your new favorite flower. 
+Explore the gallery and admire the beauty of various blooms.  Each flower is displayed in high-resolution detail, showcasing its unique characteristics.
